@@ -1,5 +1,5 @@
-def addition(a,b):
-    print(a+b)
+def addition(a,b,c):
+    print(a+b+c)
 def subtraction(a,b):
     print(a-b)
 def multiplication(a,b):
@@ -10,7 +10,8 @@ def modulusfun(a,b):
     print(a%b)
 a=50
 b=60
-addition(a,b)
+c=10
+addition(a,b,c)
 subtraction(a,b)
 multiplication(a,b)
 divisionn(a,b)
