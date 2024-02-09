@@ -7,7 +7,7 @@ def multiplication(a,b):
 def divisionn(a,b):
     print(a//b)
 a=5
-b=6
+b=60
 addition(a,b)
 subtraction(a,b)
 multiplication(a,b)
