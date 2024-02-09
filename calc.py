@@ -9,3 +9,4 @@ b=6
 addition(a,b)
 subtraction(a,b)
 multiplication(a,b)
+print("Updated")
