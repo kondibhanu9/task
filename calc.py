@@ -10,7 +10,7 @@ def modulusfun(a,b):
     print(a%b)
 a=120
 b=60
-c=10
+c=20
 addition(a,b,c)
 subtraction(a,b)
 multiplication(a,b)
