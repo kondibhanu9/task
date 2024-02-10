@@ -9,7 +9,7 @@ def divisionn(a,b):
 def modulusfun(a,b):
     print(a%b)
 a=120
-b=60
+b=600
 c=200
 addition(a,b,c)
 subtraction(a,b)
