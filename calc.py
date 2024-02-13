@@ -8,7 +8,7 @@ def divisionn(a,b):
     print(a//b)
 def modulusfun(a,b):
     print(a%b)
-a=120
+a=1200
 b=6000
 c=2000
 addition(a,b,c)
